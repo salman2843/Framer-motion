@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` for your **React + Tailwind E-Commerce Project** (perfume store) based on everything you’ve built so far:
-
----
-
 # 🛍️ ScentAura – E-Commerce Perfume Store (Frontend)
 
 A modern, animated e-commerce frontend built with **React**, **Tailwind CSS**, and **Framer Motion**. Users can browse perfume products, view product details, and enjoy smooth transitions across the site.
@@ -10,10 +6,10 @@ A modern, animated e-commerce frontend built with **React**, **Tailwind CSS**, a
 
 ## 🚀 Tech Stack
 
-* ⚛️ React (via Vite)
-* 🎨 Tailwind CSS
-* 🎞️ Framer Motion (page & component animations)
-* 🌐 React Router DOM (routing)
+- ⚛️ React (via Vite)
+- 🎨 Tailwind CSS
+- 🎞️ Framer Motion (page & component animations)
+- 🌐 React Router DOM (routing)
 
 ---
 
@@ -32,11 +28,11 @@ src/
 
 ## 📸 Features Implemented
 
-* ✅ **Responsive Navbar** with slide-in animation
-* ✅ **Hero Banner** with fade-in + text animation
-* ✅ **Product Grid** with animated hover cards
-* ✅ **Page Transitions** between Home and Product Details
-* ✅ **Dynamic Product Detail Page** using URL params
+- ✅ **Responsive Navbar** with slide-in animation
+- ✅ **Hero Banner** with fade-in + text animation
+- ✅ **Product Grid** with animated hover cards
+- ✅ **Page Transitions** between Home and Product Details
+- ✅ **Dynamic Product Detail Page** using URL params
 
 ---
 
@@ -71,8 +67,8 @@ src/
 [
   { id: "1", name: "Rose Bloom", price: 69, image: "/perfume1.jpg" },
   { id: "2", name: "Ocean Mist", price: 79, image: "/perfume2.jpg" },
-  { id: "3", name: "Amber Wood", price: 89, image: "/perfume3.jpg" }
-]
+  { id: "3", name: "Amber Wood", price: 89, image: "/perfume3.jpg" },
+];
 ```
 
 Images should be placed in the `public/` folder (e.g. `public/perfume1.jpg`).
@@ -81,14 +77,13 @@ Images should be placed in the `public/` folder (e.g. `public/perfume1.jpg`).
 
 ## 🌟 Upcoming Features
 
-* 🛒 Cart drawer with Add-to-Cart functionality
-* 💳 Checkout flow
-* 🔍 Image zoom on product page
-* 💬 Product reviews
+- 🛒 Cart drawer with Add-to-Cart functionality
+- 💳 Checkout flow
+- 🔍 Image zoom on product page
+- 💬 Product reviews
 
 ---
 
 ## 📄 License
 
 MIT – Feel free to use and modify!
-
